@@ -25,8 +25,11 @@ Yeah! just put the EFI inside your EFI partition.
 
 # Thanks To
 https://www.macos86.it/profile/5521-asdfg6818/ Asdfg6818 for the Battery Patch and SSDT's 
-https://www.macos86.it/profile/1-gengik84/ Gengik84 for general help with the Patches 
-https://www.macos86.it/profile/6058-magicobari/ magicobari for SD card reader Kext 
+
+https://www.macos86.it/profile/1-gengik84/ Gengik84 for general help with the Patches
+
+https://www.macos86.it/profile/6058-magicobari/ magicobari for SD card reader Kext
+
 
 
 
