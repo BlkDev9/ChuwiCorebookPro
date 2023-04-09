@@ -6,20 +6,20 @@ EFI Folder for the Chuwi Corebook Pro.
  
 # What works?
 
-Everything!!
+Everything!! (Yes, even the SDcard reader and Bluetooth/Airdrop)
 
 
  
 # What macOS version are Compatible?
 
-I tested macOS Catalina, Big sur, and Monterey;
+I tested macOS Catalina, Big sur, Monterey and Ventura;
 
 
 
  
 # So i'm ready to go?
 
-Yeah! just put the EFI inside your EFI partition.
+Yep, just put the EFI inside your EFI partition and use https://github.com/corpnewt/GenSMBIOS to generate a new smbios for your PC, use "MacBookPro14,1" and put the values in your config.plist file, then you're good to go!
 
 
 
